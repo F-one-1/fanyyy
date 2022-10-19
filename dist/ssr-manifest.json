@@ -1,0 +1,457 @@
+{
+  "vite/modulepreload-polyfill": [],
+  "node_modules/.pnpm/@unocss+reset@0.45.26/node_modules/@unocss/reset/tailwind.css": [],
+  "src/styles/main.css": [],
+  "src/styles/prose.css": [],
+  "src/styles/markdown.css": [],
+  "../../../__uno.css": [],
+  "\u0000vite/preload-helper": [],
+  "node_modules/.pnpm/@vue+shared@3.2.40/node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
+  "node_modules/.pnpm/@vue+reactivity@3.2.40/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [],
+  "node_modules/.pnpm/@vue+runtime-core@3.2.40/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [],
+  "node_modules/.pnpm/@vue+runtime-dom@3.2.40/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
+  "node_modules/.pnpm/@vueuse+shared@9.3.0_vue@3.2.40/node_modules/@vueuse/shared/index.mjs": [],
+  "node_modules/.pnpm/@vueuse+core@9.3.0_vue@3.2.40/node_modules/@vueuse/core/index.mjs": [],
+  "src/components/Plum.vue?vue&type=script&setup=true&lang.ts": [],
+  "node_modules/.pnpm/vue-router@4.1.5_vue@3.2.40/node_modules/vue-router/dist/vue-router.mjs": [],
+  "\u0000commonjsHelpers.js": [],
+  "\u0000D:/vscode/blog/antfu.me/node_modules/.pnpm/dayjs@1.11.5/node_modules/dayjs/dayjs.min.js?commonjs-module": [],
+  "node_modules/.pnpm/dayjs@1.11.5/node_modules/dayjs/dayjs.min.js": [],
+  "src/logics/index.ts": [],
+  "src/components/Post.vue?vue&type=script&setup=true&lang.ts": [],
+  "node_modules/.pnpm/@vueuse+head@0.7.0_vue@3.2.40/node_modules/@vueuse/head/dist/index.mjs": [],
+  "pages/index.md": [],
+  "../../../@vite-plugin-pages/generated-pages?id=pages-generated": [],
+  "\u0000D:/vscode/blog/antfu.me/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-module": [],
+  "node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js": [],
+  "node_modules/.pnpm/vite-ssg@0.20.2_h6ddk3ylmgivxcbvyn5tajy6am/node_modules/vite-ssg/dist/chunks/state.mjs": [],
+  "node_modules/.pnpm/vite-ssg@0.20.2_h6ddk3ylmgivxcbvyn5tajy6am/node_modules/vite-ssg/dist/chunks/ClientOnly.mjs": [],
+  "node_modules/.pnpm/vite-ssg@0.20.2_h6ddk3ylmgivxcbvyn5tajy6am/node_modules/vite-ssg/dist/index.mjs": [],
+  "\u0000D:/vscode/blog/antfu.me/node_modules/.pnpm/dayjs@1.11.5/node_modules/dayjs/plugin/localizedFormat.js?commonjs-module": [],
+  "node_modules/.pnpm/dayjs@1.11.5/node_modules/dayjs/plugin/localizedFormat.js": [],
+  "\u0000plugin-vue:export-helper": [],
+  "src/components/Footer.vue": [],
+  "~icons/ri/sun-line": [],
+  "~icons/ri/moon-line": [],
+  "src/components/ToggleTheme.vue?vue&type=script&setup=true&lang.ts": [],
+  "~icons/feather/twitter": [],
+  "../../../logo-dark.svg?url": [],
+  "../../../logo.svg?url": [],
+  "src/components/NavBar.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/NavBar.vue?vue&type=style&index=0&scoped=6169d58d&lang.css": [],
+  "src/components/NavBar.vue": [],
+  "src/App.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/main.ts": [],
+  "index.html": [],
+  "assets/app.07d57fa0.js-unocss-hash.css": [],
+  "pages/posts/windicss-and-tailwind-jit.md": [
+    "/assets/windicss-and-tailwind-jit.2bbc041d.js"
+  ],
+  "src/components/Tweet.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/Tweet.vue_vue_type_script_setup_true_lang.e91e5556.js"
+  ],
+  "pages/posts/why-reproductions-are-required.md": [
+    "/assets/why-reproductions-are-required.86322ed2.js"
+  ],
+  "../../../images/issue-close-without-repro-light.png": [
+    "/assets/github-inbox-dark.54b5efd8.js"
+  ],
+  "../../../images/issue-close-without-repro-dark.png": [
+    "/assets/github-inbox-dark.54b5efd8.js"
+  ],
+  "../../../images/github-inbox-light.png": [
+    "/assets/github-inbox-dark.54b5efd8.js"
+  ],
+  "../../../images/github-inbox-dark.png": [
+    "/assets/github-inbox-dark.54b5efd8.js"
+  ],
+  "pages/posts/why-reproductions-are-required-zh.md": [
+    "/assets/why-reproductions-are-required-zh.7ff7853d.js"
+  ],
+  "pages/posts/why-not-prettier.md": [
+    "/assets/why-not-prettier.4adbfd71.js"
+  ],
+  "src/components/GitHubLink.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/GitHubLink.vue_vue_type_script_setup_true_lang.6687dadb.js"
+  ],
+  "../../../images/prettier-print-width.png": [
+    "/assets/prettier-print-width.134143f6.js"
+  ],
+  "~icons/carbon/logo-github": [
+    "/assets/logo-github.02ed4f9e.js"
+  ],
+  "pages/posts/why-not-prettier-zh.md": [
+    "/assets/why-not-prettier-zh.839c5f52.js"
+  ],
+  "pages/posts/watch-with-reactivity.md": [
+    "/assets/watch-with-reactivity.717edb17.js"
+  ],
+  "pages/posts/vue-beijing-2021.md": [
+    "/assets/vue-beijing-2021.66a9077f.js"
+  ],
+  "pages/posts/vue-3-notes.md": [
+    "/assets/vue-3-notes.1a958c6c.js"
+  ],
+  "pages/posts/vite-on-demand-dx-viteconf-2022.md": [
+    "/assets/vite-on-demand-dx-viteconf-2022.ae8d8853.js"
+  ],
+  "src/components/icons/Slidev.vue": [
+    "/assets/Slidev.f9225aaa.js"
+  ],
+  "pages/posts/types-for-sub-modules.md": [
+    "/assets/types-for-sub-modules.3d9d73ab.js"
+  ],
+  "pages/posts/typed-provide-and-inject-in-vue.md": [
+    "/assets/typed-provide-and-inject-in-vue.c1a4bd00.js"
+  ],
+  "pages/posts/type-your-config.md": [
+    "/assets/type-your-config.12fdc3a7.js"
+  ],
+  "pages/posts/type-inferencing-in-vue.md": [
+    "/assets/type-inferencing-in-vue.83c6b471.js"
+  ],
+  "pages/posts/rewrite-in-vite.md": [
+    "/assets/rewrite-in-vite.fd69d769.js"
+  ],
+  "../../../images/discover-windicss.png": [
+    "/assets/reimagine-atomic-css.3ad1cc72.js"
+  ],
+  "../../../images/unocss-traditional-way.png": [
+    "/assets/reimagine-atomic-css.3ad1cc72.js"
+  ],
+  "../../../images/unocss-on-demand-way.png": [
+    "/assets/reimagine-atomic-css.3ad1cc72.js"
+  ],
+  "pages/posts/reimagine-atomic-css.md": [
+    "/assets/reimagine-atomic-css.3ad1cc72.js"
+  ],
+  "../../../images/discover-windicss-zh.png": [
+    "/assets/reimagine-atomic-css-zh.1b15e175.js"
+  ],
+  "../../../images/unocss-traditional-way-zh.png": [
+    "/assets/reimagine-atomic-css-zh.1b15e175.js"
+  ],
+  "../../../images/unocss-on-demand-way-zh.png": [
+    "/assets/reimagine-atomic-css-zh.1b15e175.js"
+  ],
+  "pages/posts/reimagine-atomic-css-zh.md": [
+    "/assets/reimagine-atomic-css-zh.1b15e175.js"
+  ],
+  "pages/posts/reflection-of-speaking-in-public.md": [
+    "/assets/reflection-of-speaking-in-public.41b57655.js"
+  ],
+  "pages/posts/range-in-javascript.md": [
+    "/assets/range-in-javascript.56dedca4.js"
+  ],
+  "pages/posts/publish-esm-and-cjs.md": [
+    "/assets/publish-esm-and-cjs.60cddb00.js"
+  ],
+  "pages/posts/patterns-of-vueuse-vuefes-japan-2022.md": [
+    "/assets/patterns-of-vueuse-vuefes-japan-2022.afff032a.js"
+  ],
+  "pages/posts/optimize-await.md": [
+    "/assets/optimize-await.e2358f54.js"
+  ],
+  "pages/posts/npm-binary-mirrors.md": [
+    "/assets/npm-binary-mirrors.7d7d8403.js"
+  ],
+  "pages/posts/new-ways-to-vue-taiwan-2021.md": [
+    "/assets/new-ways-to-vue-taiwan-2021.374fcf37.js"
+  ],
+  "pages/posts/new-ways-to-vue-london-2021.md": [
+    "/assets/new-ways-to-vue-london-2021.f7a4fb9c.js"
+  ],
+  "pages/posts/new-house.md": [
+    "/assets/new-house.1a1d980f.js"
+  ],
+  "pages/posts/netlify-redirects.md": [
+    "/assets/netlify-redirects.1802b36d.js"
+  ],
+  "pages/posts/match-quotes-in-pairs.md": [
+    "/assets/match-quotes-in-pairs.7a33879d.js"
+  ],
+  "pages/posts/match-chinese-characters.md": [
+    "/assets/match-chinese-characters.52d6a2c4.js"
+  ],
+  "pages/posts/make-libraries-working-with-vue-2-and-3.md": [
+    "/assets/make-libraries-working-with-vue-2-and-3.11d14e19.js"
+  ],
+  "pages/posts/journey-with-icons.md": [
+    "/assets/journey-with-icons.7e98325a.js"
+  ],
+  "~icons/ph/circle-wavy-question-duotone": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "~icons/mdi/progress-question": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "~icons/line-md/question-circle": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "~icons/eos-icons/installing": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "~icons/logos/svelte-icon": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "~icons/ant-design/carry-out-twotone": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "~icons/logos/webcomponents": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "~icons/bx/bx-planet": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "~icons/logos/rollup": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "~icons/logos/javascript": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "~icons/tabler/writing-sign": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "src/components/icons/SolidLogo.vue": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "~icons/twemoji/star-struck": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "~icons/logos/webpack": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "~icons/logos/preact": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "~icons/uim/circle-layer": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "~icons/logos/nuxt-icon": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "~icons/mdi/material-design": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "~icons/logos/nextjs-icon": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "~icons/logos/react": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "~icons/carbon/carbon": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "src/components/icons/ViteLogo.vue": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "~icons/logos/vue": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "~icons/twemoji/face-with-tears-of-joy": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "~icons/fa/beer": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "~icons/mdi/alarm": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "~icons/tabler/confetti": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "~icons/tabler/triangle-square-circle": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "~icons/tabler/bolt": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "~icons/tabler/code": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "pages/posts/journey-with-icons-continues.md": [
+    "/assets/journey-with-icons-continues.de7d5bdf.js"
+  ],
+  "pages/posts/isomorphic-dirname.md": [
+    "/assets/isomorphic-dirname.c45bc071.js"
+  ],
+  "pages/posts/introduction-to-vitest-vue-nation-2022.md": [
+    "/assets/introduction-to-vitest-vue-nation-2022.f99e07b2.js"
+  ],
+  "pages/posts/index.md": [
+    "/assets/index.89a76874.js"
+  ],
+  "src/components/AppLink.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/SubNav.vue_vue_type_script_setup_true_lang.452a607d.js"
+  ],
+  "src/components/ListPosts.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/SubNav.vue_vue_type_script_setup_true_lang.452a607d.js"
+  ],
+  "src/components/SubNav.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/SubNav.vue_vue_type_script_setup_true_lang.452a607d.js"
+  ],
+  "pages/posts/icons-in-pure-css.md": [
+    "/assets/icons-in-pure-css.831f31e9.js"
+  ],
+  "pages/posts/icons-in-pure-css-zh.md": [
+    "/assets/icons-in-pure-css-zh.85608bbc.js"
+  ],
+  "pages/posts/github-co-authors.md": [
+    "/assets/github-co-authors.3ceeb1cd.js"
+  ],
+  "pages/posts/get-package-root.md": [
+    "/assets/get-package-root.f9175307.js"
+  ],
+  "pages/posts/domain-email.md": [
+    "/assets/domain-email.7f22aa95.js"
+  ],
+  "../../../images/nuxt-vite-node-hmr.png": [
+    "/assets/dev-ssr-on-nuxt.ed15515b.js"
+  ],
+  "../../../images/logo-nuxt3.svg": [
+    "/assets/dev-ssr-on-nuxt.ed15515b.js"
+  ],
+  "../../../images/logo-vite-node.svg": [
+    "/assets/dev-ssr-on-nuxt.ed15515b.js"
+  ],
+  "../../../images/logo-vitest.svg": [
+    "/assets/dev-ssr-on-nuxt.ed15515b.js"
+  ],
+  "../../../images/logo-histoire.svg": [
+    "/assets/dev-ssr-on-nuxt.ed15515b.js"
+  ],
+  "../../../images/logo-termui.svg": [
+    "/assets/dev-ssr-on-nuxt.ed15515b.js"
+  ],
+  "pages/posts/dev-ssr-on-nuxt.md": [
+    "/assets/dev-ssr-on-nuxt.ed15515b.js"
+  ],
+  "pages/posts/destructuring-with-object-or-array.md": [
+    "/assets/destructuring-with-object-or-array.df908dd5.js"
+  ],
+  "src/components/slides/Marker.vue": [
+    "/assets/composable-vue-vueday-2021.e549a3dd.js"
+  ],
+  "src/components/slides/MarkerTips.vue": [
+    "/assets/composable-vue-vueday-2021.e549a3dd.js"
+  ],
+  "src/components/slides/MarkerPattern.vue": [
+    "/assets/composable-vue-vueday-2021.e549a3dd.js"
+  ],
+  "src/components/slides/VueUseFn.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/composable-vue-vueday-2021.e549a3dd.js"
+  ],
+  "~icons/carbon/sun": [
+    "/assets/composable-vue-vueday-2021.e549a3dd.js"
+  ],
+  "~icons/carbon/moon": [
+    "/assets/composable-vue-vueday-2021.e549a3dd.js"
+  ],
+  "src/components/slides/DarkToggleButton.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/composable-vue-vueday-2021.e549a3dd.js"
+  ],
+  "src/components/slides/MarkerCore.vue": [
+    "/assets/composable-vue-vueday-2021.e549a3dd.js"
+  ],
+  "pages/posts/composable-vue-vueday-2021.md": [
+    "/assets/composable-vue-vueday-2021.e549a3dd.js"
+  ],
+  "pages/posts/composable-vue-vueconf-china-2021.md": [
+    "/assets/composable-vue-vueconf-china-2021.358ac9ce.js"
+  ],
+  "pages/posts/color-scheme-for-vscode-ext.md": [
+    "/assets/color-scheme-for-vscode-ext.d489c34f.js"
+  ],
+  "pages/posts/binfe-2020-zh.md": [
+    "/assets/binfe-2020-zh.461e858c.js"
+  ],
+  "pages/posts/async-with-composition-api.md": [
+    "/assets/async-with-composition-api.a389a553.js"
+  ],
+  "pages/posts/about-yak-shaving.md": [
+    "/assets/about-yak-shaving.64ec9934.js"
+  ],
+  "pages/posts/about-yak-shaving-zh.md": [
+    "/assets/about-yak-shaving-zh.1b7654df.js"
+  ],
+  "../../../images/wechat-group2.png": [
+    "/assets/chat-zh.4d59839e.js"
+  ],
+  "pages/links/chat-zh.md": [
+    "/assets/chat-zh.4d59839e.js"
+  ],
+  "pages/talks.md": [
+    "/assets/talks.0be83be5.js"
+  ],
+  "pages/streams.md": [
+    "/assets/streams.5e708b07.js"
+  ],
+  "~icons/ri/heart-line": [
+    "/assets/sponsors-list.4fdb1754.js"
+  ],
+  "public/sponsors.svg?component": [
+    "/assets/sponsors-list.4fdb1754.js"
+  ],
+  "pages/sponsors-list.md": [
+    "/assets/sponsors-list.4fdb1754.js"
+  ],
+  "src/logics/getStarsRanking.ts": [
+    "/assets/projects.d79526d1.js",
+    "/assets/projects.32069ae5.css"
+  ],
+  "src/components/StarsRanking.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/projects.d79526d1.js",
+    "/assets/projects.32069ae5.css"
+  ],
+  "src/components/icons/Vitest.vue": [
+    "/assets/projects.d79526d1.js",
+    "/assets/projects.32069ae5.css"
+  ],
+  "src/components/icons/Unocss.vue": [
+    "/assets/projects.d79526d1.js",
+    "/assets/projects.32069ae5.css"
+  ],
+  "src/components/icons/VueDemi.vue": [
+    "/assets/projects.d79526d1.js",
+    "/assets/projects.32069ae5.css"
+  ],
+  "src/components/icons/VueReactivity.vue": [
+    "/assets/projects.d79526d1.js",
+    "/assets/projects.32069ae5.css"
+  ],
+  "src/components/icons/VueUse.vue": [
+    "/assets/projects.d79526d1.js",
+    "/assets/projects.32069ae5.css"
+  ],
+  "src/components/ListProjects.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/projects.d79526d1.js",
+    "/assets/projects.32069ae5.css"
+  ],
+  "src/components/ListProjects.vue?vue&type=style&index=0&scoped=57ccbb63&lang.css": [
+    "/assets/projects.d79526d1.js",
+    "/assets/projects.32069ae5.css"
+  ],
+  "src/components/ListProjects.vue": [
+    "/assets/projects.d79526d1.js",
+    "/assets/projects.32069ae5.css"
+  ],
+  "pages/projects.md": [
+    "/assets/projects.d79526d1.js",
+    "/assets/projects.32069ae5.css"
+  ],
+  "pages/podcasts.md": [
+    "/assets/podcasts.8b9d7d82.js"
+  ],
+  "pages/notes.md": [
+    "/assets/notes.778c7c74.js"
+  ],
+  "pages/demos.md": [
+    "/assets/demos.7de4b0e1.js"
+  ],
+  "pages/bookmarks.md": [
+    "/assets/bookmarks.cff4e69c.js"
+  ],
+  "pages/[...404].md": [
+    "/assets/_...404_.c4a4ea1c.js"
+  ]
+}
